@@ -1,0 +1,40 @@
+/* même base sur toutes mes pages body, menu nav, footer */
+body{
+    background-color: rgb(37, 37, 37);
+    color: white;
+    font-family: 'Caveat', cursive;
+}
+
+footer {
+    color: rgb(207, 207, 207);
+    background-color: #1e1d18;
+    font-family: 'Satisfy', cursive;
+    font-size: 0.9em;
+    height: auto;
+    padding-top: 19px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.footer-blindfold {
+    background-color: rgba(255,255,255,0.3);
+    padding-top: 5px;
+}
+
+.footer-img{
+    width: 3%;
+}
+
+/* contenu de ma page d'introduction */
+
+/* contenu de ma page 2 : les différents Blabla */
+
+/* contenu de ma page 3 : Comment s'en débarrasser ? */
+
+/* contenu de ma dernière page : blog */
+
+/* responsive petits écrans */
+
+/* responsive écrans moyens */
+
+/* responsive grands écrans */
